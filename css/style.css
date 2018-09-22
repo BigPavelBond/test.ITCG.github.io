@@ -91,6 +91,10 @@ body{
 	.girl_two{
 		left: 85%;
 	}
+    body{
+        overflow-x: hidden;
+    }
+
 }
 @media(min-width:0px) and (max-width:1200px) {
 	.girl_one{
@@ -99,4 +103,7 @@ body{
 	.girl_two{
 		left: 75%;
 	}
+    body{
+        overflow-x: hidden;
+    }
 }
